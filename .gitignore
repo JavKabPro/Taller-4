@@ -1,0 +1,2 @@
+# macOS system file .DS_Store  # Windows system file Thumbs.db
+# Logs *.log  # Dependency directories node_modules/  # Environment variables .env  # Build files build/
